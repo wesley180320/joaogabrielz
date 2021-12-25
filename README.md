@@ -1,4 +1,4 @@
-  # Hello World , I am Wesley Estevão 👋
+  # Hello World, I am Wesley Estevão 👋
   <div style="display:flex">
   <h3>👨‍💻 knowledge:
     
