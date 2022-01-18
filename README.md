@@ -27,8 +27,8 @@
      📚 💼 
   <div>
   <a href="https://github.com/wesley180320">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=wesley180320&show_icons=true&theme=&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley180320&layout=compact&langs_count=7&theme="/>  
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=wesley180320&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley180320&layout=compact&langs_count=7&theme=white"/>  
   </div>    
    
   <div style="display:flex">
