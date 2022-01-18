@@ -1,4 +1,5 @@
-  # Hello World, I am Wesley Estevão 👋
+  # Hello World, I am Wesley Estevão <img alt="incra" align="center" width="130" src="https://www.photofunky.net/output/image/e/c/5/b/ec5bdb/photofunky.gif">
+   
   <div style="display:flex">
   <h3>👨‍💻 knowledge:
     
@@ -8,17 +9,9 @@
      <img alt="WS-Postgree" align="center" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
      <img alt="WS-Postgree" align="center" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
     
+  <br>
   </h3>
   </div>
-    
-    while(alive){
-      eat();
-      code();
-      coffe();
-      train();
-      learn();
-      //sleep();
-    }
   <div style="display:flex">  
   <h3>📖 learning:
   <img alt="jg-Angular" align="center" height="70" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -29,14 +22,13 @@
     <img alt="jg-Angular" align="center" height="90" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" />
 
   <h3>
-    
    </div>
     
-    <h1> 📚 💼 </h1>
+     📚 💼 
   <div>
   <a href="https://github.com/wesley180320">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=wesley180320&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley180320&layout=compact&langs_count=7&theme=dracula"/>  
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=wesley180320&show_icons=true&theme=&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley180320&layout=compact&langs_count=7&theme="/>  
   </div>    
    
   <div style="display:flex">
@@ -44,8 +36,6 @@
   <img alt="incra" align="center" width="130" src="https://brandeps.com/logo-download/I/INCRA-logo-vector-01.svg">
   </h4>
   </div>
-   
-   ##
     
 <div style="display:flex"> 
   <a href="https://www.instagram.com/wesleyds.souza/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"         target="_blank"></a>
