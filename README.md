@@ -10,7 +10,7 @@
     
   </h3>
   </div>
-  
+    
     while(alive){
       eat();
       code();
@@ -19,9 +19,7 @@
       learn();
       //sleep();
     }
-    
-  <div>  
-  
+  <div style="display:flex">  
   <h3>📖 learning:
   <img alt="jg-Angular" align="center" height="70" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img alt="jg-Angular" align="center" height="70" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain-wordmark.svg">
@@ -41,7 +39,7 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley180320&layout=compact&langs_count=7&theme=dracula"/>  
   </div>    
    
-  <div>
+  <div style="display:flex">
   <h4>🏢 I’m currently working on:
   <img alt="incra" align="center" width="130" src="https://brandeps.com/logo-download/I/INCRA-logo-vector-01.svg">
   </h4>
@@ -49,7 +47,7 @@
    
    ##
     
-<div> 
+<div style="display:flex"> 
   <a href="https://www.instagram.com/wesleyds.souza/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"         target="_blank"></a>
   <a href = "mailto:estevaoowesley@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wesley-de-souza-4a0372157"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-            badge&logo=linkedin&logoColor=white" width="100" target="_blank"></a>  
