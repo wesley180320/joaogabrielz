@@ -42,7 +42,7 @@
   </div>
     
 <div style="display:flex"> 
-  <a href="https://www.instagram.com/wesleyds.souza/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"         target="_blank"></a>
+  <a href="https://www.instagram.com/dev_wesley.souza/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"         target="_blank"></a>
   <a href = "mailto:estevaoowesley@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wesley-de-souza-4a0372157"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" width="105" target="_blank"></a>  
 </div>
