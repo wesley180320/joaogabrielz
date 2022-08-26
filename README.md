@@ -20,9 +20,6 @@
   <h3>📖 learning:
   <img alt="jg-Angular" align="center" height="70" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
    <img alt="jg-Angular" align="center" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-    <img alt="jg-Angular" align="center" height="100" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" />
-    <img alt="jg-Angular" align="center" height="90" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" />
-
   <h3>
    </div>
     
@@ -35,7 +32,7 @@
    
   <div style="display:flex">
   <h4>🏢 I’m currently working on:
-  <img alt="incra" align="center" width="130" src="https://brandeps.com/logo-download/I/INCRA-logo-vector-01.svg">
+  <img alt="incra" align="center" width="130" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFINcYUaIuAsg/company-logo_200_200/0/1601587180186?e=1669852800&v=beta&t=7GqNU6jF61iR5IK0rbtph-16T6DccWU-kezOHRoBNDU">
   </h4>
   </div>
     
