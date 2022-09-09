@@ -20,6 +20,7 @@
   <h3>📖 learning:
   <img alt="jg-Angular" align="center" height="70" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
    <img alt="jg-Angular" align="center" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+   <img alt="jg-Angular" align="center" height="70" width="40" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <h3>
    </div>
     
