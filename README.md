@@ -20,7 +20,7 @@
   <h3>📖 learning:
   <img alt="jg-Angular" align="center" height="70" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
    <img alt="jg-Angular" align="center" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-   <img alt="jg-Angular" align="center" height="70" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+   <img alt="jg-Angular" align="center" height="200" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <h3>
    </div>
     
@@ -28,7 +28,7 @@
   <div>
   <a href="https://github.com/wesley180320">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=wesley180320&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley180320&layout=compact&langs_count=7&theme=white"/>  
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley180320&layout=compact&langs_count=7&theme=white"/>  
   </div>    
    
   <div style="display:flex">
