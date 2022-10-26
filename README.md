@@ -25,12 +25,7 @@
    </div>
     
      📚 💼 
-  <div>
-  <a href="https://github.com/wesley180320">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=wesley180320&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley180320&layout=compact&langs_count=7&theme=white"/>  
-  </div>    
-   
+
   <div style="display:flex">
   <h4>🏢 I’m currently working on:
   <img alt="incra" align="center" width="130" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFINcYUaIuAsg/company-logo_200_200/0/1601587180186?e=1669852800&v=beta&t=7GqNU6jF61iR5IK0rbtph-16T6DccWU-kezOHRoBNDU">
