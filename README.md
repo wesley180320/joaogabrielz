@@ -11,14 +11,14 @@
    
 <div align="center">
 <div style="display: inline_block"><br>
-  <img alt="WS-JAVA" align="center" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" >
-   <img alt="WS-Spring" align="center" width="77" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-     <img alt="WS-Mysql" align="center" width="94" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-     <img alt="WS-Postgree" align="center" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
-    <img alt="jg-Angular" align="center" height="90" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-   <img alt="jg-Angular" align="center" height="90" width=60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-    <img alt="WS-Postgree" align="center" width="63" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-      <img alt="WS-htmml5" align="center" width="63" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+  <img alt="WS-JAVA" align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" >
+   <img alt="WS-Spring" align="center" width="57" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+     <img alt="WS-Mysql" align="center" width="74" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+     <img alt="WS-Postgree" align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
+    <img alt="jg-Angular" align="center" height="90" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+   <img alt="jg-Angular" align="center" height="90" width=40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+    <img alt="WS-Postgree" align="center" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+      <img alt="WS-htmml5" align="center" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="ju-pic" height="200" width="200px" src="https://gifs.eco.br/wp-content/uploads/2022/03/gifs-animados-de-pokemon-2.gif">
 </div>
      
