@@ -11,8 +11,9 @@
    
 <div align="center">
 <div style="display: inline_block"><br>
-  <img alt="WS-JAVA" align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" >
+  <img alt="WS-JAVA" align="center" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" >
    <img alt="WS-Spring" align="center" width="57" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+ <img alt="WS-JAVA" align="center" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
      <img alt="WS-Mysql" align="center" width="74" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
      <img alt="WS-Postgree" align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
     <img alt="jg-Angular" align="center" height="90" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
