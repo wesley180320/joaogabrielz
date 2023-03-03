@@ -21,9 +21,9 @@
    <img alt="jg-Angular" align="center" height="90" width=40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
     <img alt="WS-Postgree" align="center" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
       <img alt="WS-htmml5" align="center" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-  <img align="center" alt="ju-pic" height="200" width="140px" src="https://gifs.eco.br/wp-content/uploads/2022/03/gifs-animados-de-pokemon-2.gif">
+  
 </div>
-     
+     <img align="center" alt="ju-pic" height="200" width="140px" src="https://gifs.eco.br/wp-content/uploads/2022/03/gifs-animados-de-pokemon-2.gif">
   <div style="display:flex">
  
  
