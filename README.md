@@ -36,7 +36,7 @@
 
   <div style="display:flex"  align="center">
   <h4>🏢 I’m currently working on:
-  <img alt="incra" align="center" width="130" src="https://media-exp1.licdn.com/dms/image/C4D0BAQF6hoz6RBvBQw/company-logo_200_200/0/1640106713628?e=2147483647&v=beta&t=f5VtiQLEDEZHxfR-VxmMWkgI2QW6Kl-_dWdbOCOQZ_Y">
+  <img alt="incra" align="center" width="130" src="https://br.linkedin.com/company/inovvati">
    <a href="https://www.instagram.com/_wesley.de.souza_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"         target="_blank"></a>
   <a href = "mailto:estevaoowesley@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wesley-de-souza-4a0372157"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" width="105" target="_blank"></a>  
